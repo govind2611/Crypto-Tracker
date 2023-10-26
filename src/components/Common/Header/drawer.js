@@ -5,7 +5,7 @@ import Drawer from "@mui/material/Drawer";
 import MenuRoundedIcon from "@mui/icons-material/MenuRounded";
 
 export default function MobileDrawer() {
-  const [flag, setFlag] = useState(false);
+  const [flag, setFlag] = useState(true);
   const [darkMode, setDarkMode] = useState(
     localStorage.getItem("theme") === "dark" ? true : false
   );
