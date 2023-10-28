@@ -51,7 +51,7 @@ const MainComponent = () => {
           <RWebShare
             data={{
               text: "CryptoTracker, made using React JS.",
-              url: "https://crypto-tracker-app-kappa.vercel.app/",
+              url: "https://crypto-tracker0126.netlify.app/",
               title: "CryptoTracker.",
             }}
             onClick={() => console.log("shared successfully!")}

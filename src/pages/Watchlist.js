@@ -53,14 +53,12 @@
 //           )}
 //         </div>
 //       )}
-      
+
 //     </div>
 //   );
 // }
 
 // export default WatchlistPage;
-
-
 
 import React, { useEffect, useState } from "react";
 import Button from "../components/Common/Button";
